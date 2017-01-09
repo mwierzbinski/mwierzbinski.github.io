@@ -1,12 +1,12 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        The Coding Bear
+tagline:      Currently learning... Swift 
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
+  name:       Michal Wierzbinski
   url:        http://yourhomepage.com 
 
 # Gems
