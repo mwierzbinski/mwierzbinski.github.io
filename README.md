@@ -1,5 +1,5 @@
 # The coding bear blog. 
-The Coding bear blog is my place to document the stuff I learn. Currently it is based on [Jekyll][1] [Cayman theme][4] and hosted on [GitHub Pages][3]. Mainly because it was one of the simplest and cleanest looking themes I could find. Thanks [@jasonlong][2] for creating it!.
+The Coding bear blog is my place to document the stuff I learn. Currently it is based on [Jekyll][1], [Cayman theme][4] and hosted on [GitHub Pages][3]. Mainly because it was one of the simplest and cleanest looking themes I could find. Thanks [@jasonlong][2] for creating it!.
 
 # Cayman theme
 ## Setup
